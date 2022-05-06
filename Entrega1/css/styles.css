@@ -1,0 +1,84 @@
+
+body{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family: 'Indie Flower', cursive;
+    color: black;
+}
+header{
+    margin-top: 60px;
+}
+.color{
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+}
+.dcto{
+    color: rgb(32, 18, 235);
+    font-size: 30px;
+}
+.contacto{
+    margin: auto;
+    font-size: x-large;
+    padding-top: 1cm;
+    padding-left: 35%; 
+}
+.boton{
+    padding: 42%; 
+}
+
+.ig{
+width: 6%;
+float: left;
+
+}
+
+.yt{
+    width: 8%;    
+    }
+
+.carruzel{
+    width: 75%;
+    padding-top: 3%;
+    margin: auto;
+}
+
+.carousel-inner{
+    border: 0.5cm solid rgba(148,187,233,1);
+}
+
+.texto{
+    font-family: 'Courier New', Courier, monospace;  
+    text-align: end;  
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.card{
+    height: 80%;   
+}
+
+.navbar-custom .navbar-brand{
+    color: blue;
+}
+
+iframe{
+    float: right;
+    padding-right: 10%;
+    padding-top: 3%;
+}
+
+
+
+.cajasl{
+    border: 0.5cm solid rgba(148,187,233,1);
+    float: left;
+}
+
+.cajasr{
+    border: 0.5cm solid rgba(148,187,233,1);
+    float: right;
+}
